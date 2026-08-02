@@ -183,4 +183,4 @@ Contractors have a distinctive profile:
 - [3.4 Commercial Auto](04-commercial-auto.md)
 - [4.4 Risk Assessment & COPE](../volume-04-underwriting/04-risk-assessment-cope.md)
 - [5.6 Rating by Line](../volume-05-rating-pricing/06-rating-by-line.md)
-- [7.4 Loss Evaluation](../volume-07-claims/04-loss-evaluation.md)
+- [7.4 Loss Evaluation](../volume-07-claims/04-claims-resolution.md)

@@ -139,4 +139,4 @@ Renewal is the most important retention event:
 - [2.2 Personal Auto](02-personal-auto.md)
 - [2.3 Homeowners](03-homeowners.md)
 - [2.5 Personal Umbrella](05-personal-umbrella.md)
-- [6.5 Renewals](../volume-06-admin/05-renewals.md)
+- [6.5 Renewals](../volume-06-policy-administration/04-renewals.md)

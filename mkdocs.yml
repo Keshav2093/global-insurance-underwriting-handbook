@@ -188,6 +188,67 @@ nav:
       - 14.4 AI in Underwriting: volume-14-ai-insurance/04-ai-underwriting.md
       - 14.5 AI in Claims: volume-14-ai-insurance/05-ai-claims.md
       - 14.6 AI Governance: volume-14-ai-insurance/06-ai-governance.md
+  - Volume 15 — Reinsurance:
+      - Volume 15 Home: volume-15-reinsurance/index.md
+      - 15.1 Introduction & History: volume-15-reinsurance/01-introduction-history.md
+      - 15.2 Facultative Reinsurance: volume-15-reinsurance/02-facultative.md
+      - 15.3 Treaty — Quota Share & Surplus: volume-15-reinsurance/03-treaty-quota-share-surplus.md
+      - 15.4 Excess of Loss & Stop Loss: volume-15-reinsurance/04-excess-of-loss-stop-loss.md
+      - 15.5 Catastrophe & Retrocession: volume-15-reinsurance/05-catastrophe-retrocession.md
+      - 15.6 Pricing & Accounting: volume-15-reinsurance/06-pricing-accounting.md
+      - 15.7 Claims & Case Studies: volume-15-reinsurance/07-claims-case-studies.md
+  - Volume 16 — Specialty Insurance:
+      - Volume 16 Home: volume-16-specialty-insurance/index.md
+      - 16.1 Aviation Insurance: volume-16-specialty-insurance/01-aviation.md
+      - 16.2 Marine Hull: volume-16-specialty-insurance/02-marine-hull.md
+      - 16.3 Marine Cargo: volume-16-specialty-insurance/03-cargo.md
+      - 16.4 Energy Insurance: volume-16-specialty-insurance/04-energy.md
+      - 16.5 Mining Insurance: volume-16-specialty-insurance/05-mining.md
+      - 16.6 Political Risk: volume-16-specialty-insurance/06-political-risk.md
+      - 16.7 Trade Credit: volume-16-specialty-insurance/07-trade-credit.md
+      - 16.8 Entertainment Insurance: volume-16-specialty-insurance/08-entertainment.md
+      - 16.9 Jewellers Block: volume-16-specialty-insurance/09-jewellers-block.md
+      - 16.10 Fine Art: volume-16-specialty-insurance/10-fine-art.md
+      - 16.11 Space Insurance: volume-16-specialty-insurance/11-space.md
+      - 16.12 Kidnap & Ransom: volume-16-specialty-insurance/12-kidnap-ransom.md
+  - Volume 17 — Insurance Fraud:
+      - Volume 17 Home: volume-17-fraud/index.md
+      - 17.1 Fraud Fundamentals: volume-17-fraud/01-fraud-fundamentals.md
+      - 17.2 Auto Fraud: volume-17-fraud/02-auto-fraud.md
+      - 17.3 Property Fraud: volume-17-fraud/03-property-fraud.md
+      - 17.4 Liability Fraud: volume-17-fraud/04-liability-fraud.md
+      - 17.5 Special Investigation Unit: volume-17-fraud/05-siu.md
+      - 17.6 Data & Analytics: volume-17-fraud/06-analytics-fraud.md
+      - 17.7 Emerging Fraud: volume-17-fraud/07-emerging-fraud.md
+  - Volume 18 — API & InsurTech:
+      - Volume 18 Home: volume-18-api-insurtech/index.md
+      - 18.1 API Fundamentals: volume-18-api-insurtech/01-api-fundamentals.md
+      - 18.2 ACORD & Data Standards: volume-18-api-insurtech/02-acord-standards.md
+      - 18.3 Guidewire Integration: volume-18-api-insurtech/03-guidewire-integration.md
+      - 18.4 Duck Creek Integration: volume-18-api-insurtech/04-duck-creek-integration.md
+      - 18.5 Majesco Integration: volume-18-api-insurtech/05-majesco-integration.md
+      - 18.6 API Security: volume-18-api-insurtech/06-security.md
+      - 18.7 API Testing: volume-18-api-insurtech/07-testing.md
+  - References:
+      - References Home: references/index.md
+      - Regulatory & Industry Bodies: references/regulatory.md
+      - Platform Vendors & Tools: references/vendors.md
+      - Regulatory Terminology: references/terminology.md
+  - Case Studies:
+      - Case Studies Home: case-studies/index.md
+      - Large Commercial Property: case-studies/property.md
+      - Cost-in-Use Pricing: case-studies/cost-in-use.md
+      - Cyber Claim Response: case-studies/cyber-claim.md
+      - Recovery Through Reinsurance: case-studies/reinsurance.md
+      - Fraud Network Detection: case-studies/fraud-network.md
+      - API Integration: case-studies/api-integration.md
+  - Industry Data:
+      - Industry Data Home: industry-data/index.md
+      - Loss Ratios: industry-data/loss-ratios.md
+      - Premium Growth: industry-data/premiums.md
+      - Catastrophe Data: industry-data/catastrophes.md
+      - Fraud Data: industry-data/fraud.md
+      - Technology Adoption: industry-data/technology.md
   - Underwriting Checklists:
       - Checklists Home: underwriting-checklists/index.md
       - General Submission: underwriting-checklists/01-general-submission.md

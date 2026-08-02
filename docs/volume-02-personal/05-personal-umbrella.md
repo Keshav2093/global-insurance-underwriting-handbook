@@ -114,5 +114,5 @@ Example (illustrative): base \$250 for \$1M; add \$50 per additional vehicle; ad
 - [2.1 Personal Lines Overview](01-personal-lines-overview.md)
 - [2.2 Personal Auto](02-personal-auto.md)
 - [2.3 Homeowners](03-homeowners.md)
-- [3.3 Commercial Umbrella](../volume-03-commercial/03-commercial-auto.md) — commercial equivalent
+- [3.3 Commercial Umbrella](../volume-03-commercial/04-commercial-auto.md) — commercial equivalent
 - [4.6 Underwriting by Line](../volume-04-underwriting/06-underwriting-by-line.md)

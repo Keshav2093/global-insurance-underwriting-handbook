@@ -111,4 +111,4 @@ Each endorsement must show:
 - [6.1 Policy Lifecycle](01-policy-lifecycle.md)
 - [6.2 Policy Issuance & Documentation](02-policy-issuance.md)
 - [6.4 Renewals](04-renewals.md)
-- [6.6 Premium Handling](06-premium-handling.md)
+- [6.6 Premium Handling](06-premium-handling-audits.md)

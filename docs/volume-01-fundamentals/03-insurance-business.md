@@ -144,5 +144,5 @@ Because insurers hold policyholder money and bear long-tail risk, they are heavi
 - [1.1 What Is Insurance?](01-insurance-basics.md) — the pool and risk transfer
 - [1.4 The Insurance Market](04-insurance-market.md) — market participants
 - [1.6 Insurance Operations](06-insurance-operations.md) — how functions fit together
-- [5.5 Loss Ratios & Profitability](../volume-05-rating-pricing/05-loss-ratios-profitability.md) — ratio analysis in depth
-- [4.7 Underwriting Management](../volume-04-underwriting/07-underwriting-management.md) — managing underwriting performance
+- [5.5 Loss Ratios & Profitability](../industry-data/loss-ratios.md) — ratio analysis in depth
+- [4.7 Underwriting Management](../volume-04-underwriting/07-portfolio-management.md) — managing underwriting performance

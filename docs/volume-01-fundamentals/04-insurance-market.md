@@ -173,7 +173,7 @@ Regulators impose **market conduct** rules to ensure buyers are treated fairly:
 - Respect for privacy of personal data.
 - No unfair discrimination or redlining.
 
-Market conduct is examined in detail in the [US Market](../market-us/index.md) and [UK Market](../market-uk/index.md) volumes.
+Market conduct is examined in detail in the [US Market](../volume-08-us-market/index.md) and [UK Market](../volume-09-uk-market/index.md) volumes.
 
 ## Summary
 
@@ -188,5 +188,5 @@ Market conduct is examined in detail in the [US Market](../market-us/index.md) a
 - [1.3 Insurance as a Business](03-insurance-business.md)
 - [1.6 Insurance Operations](06-insurance-operations.md)
 - [4.2 Information Sources](../volume-04-underwriting/02-information-sources.md)
-- [Market US – Surplus Lines](../market-us/index.md)
-- [Market UK – London Market](../market-uk/index.md)
+- [Market US – Surplus Lines](../volume-08-us-market/index.md)
+- [Market UK – London Market](../volume-09-uk-market/index.md)

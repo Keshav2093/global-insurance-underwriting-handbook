@@ -203,5 +203,5 @@ Many modern property policies include **anti-concurrent causation** clauses stat
 
 - [1.1 What Is Insurance?](01-insurance-basics.md)
 - [1.5 Legal Environment](05-legal-environment.md)
-- [7.4 Loss Evaluation](../volume-07-claims/04-loss-evaluation.md) — valuation in practice
-- [7.5 Subrogation & Recoveries](../volume-07-claims/05-subrogation-recoveries.md)
+- [7.4 Loss Evaluation](../volume-07-claims/04-claims-resolution.md) — valuation in practice
+- [7.5 Subrogation & Recoveries](../volume-07-claims/06-reinsurance-subrogation.md)

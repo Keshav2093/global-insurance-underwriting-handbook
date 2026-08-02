@@ -198,4 +198,4 @@ Key UK special features:
 - [2.4 Dwelling Fire & Other Personal Property](04-dwelling-fire-other.md)
 - [4.6 Underwriting by Line](../volume-04-underwriting/06-underwriting-by-line.md)
 - [5.6 Rating by Line](../volume-05-rating-pricing/06-rating-by-line.md)
-- [7.2 Claims Process](../volume-07-claims/02-claims-process.md)
+- [7.2 Claims Process](../volume-07-claims/02-notification-investigation.md)

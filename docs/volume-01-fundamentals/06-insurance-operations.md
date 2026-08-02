@@ -79,7 +79,7 @@ Policy administration manages the policy after binding:
 - **Cancellations** — mid-term, pro-rata vs. short-rate.
 - **Premium transactions** — billing, payments, refunds, audits.
 
-Policy administration is covered in [Volume 6](../volume-06-admin/index.md).
+Policy administration is covered in [Volume 6](../volume-06-policy-administration/index.md).
 
 ## Claims
 

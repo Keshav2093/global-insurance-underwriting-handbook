@@ -145,4 +145,4 @@ The UK system:
 - [3.3 Commercial General Liability](03-commercial-general-liability.md)
 - [5.6 Rating by Line](../volume-05-rating-pricing/06-rating-by-line.md)
 - [5.7 Experience Rating](../volume-05-rating-pricing/07-experience-rating.md)
-- [7.2 Claims Process](../volume-07-claims/02-claims-process.md)
+- [7.2 Claims Process](../volume-07-claims/02-notification-investigation.md)

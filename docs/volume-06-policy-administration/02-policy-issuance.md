@@ -115,5 +115,5 @@ The form contains:
 
 - [6.1 Policy Lifecycle](01-policy-lifecycle.md)
 - [6.3 Endorsements](03-endorsements.md)
-- [6.6 Premium Handling](06-premium-handling.md)
+- [6.6 Premium Handling](06-premium-handling-audits.md)
 - [6.7 Policy Systems & Data](07-systems-data.md)

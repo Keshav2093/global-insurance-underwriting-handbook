@@ -176,7 +176,7 @@ Most states recognize a duty of **good faith and fair dealing** by insurers. **B
 ## Related Chapters
 
 - [1.2 Principles of Insurance](02-principles.md)
-- [6.1 Policy Documents](../volume-06-admin/01-policy-documents.md)
-- [6.6 Transactional Accuracy](../volume-06-admin/06-transactional-accuracy.md)
-- [Market US – Regulation](../market-us/index.md)
-- [Market UK – Regulation](../market-uk/index.md)
+- [6.1 Policy Documents](../volume-06-policy-administration/01-policy-lifecycle.md)
+- [6.6 Transactional Accuracy](../volume-06-policy-administration/06-premium-handling-audits.md)
+- [Market US – Regulation](../volume-08-us-market/index.md)
+- [Market UK – Regulation](../volume-09-uk-market/index.md)

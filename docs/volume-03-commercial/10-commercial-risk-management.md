@@ -188,4 +188,4 @@ A strong risk management culture is a **positive underwriting factor** — it ju
 - [3.1 Commercial Lines Overview](01-commercial-overview.md)
 - [4.4 Risk Assessment & COPE](../volume-04-underwriting/04-risk-assessment-cope.md)
 - [4.5 Risk Engineering](../volume-04-underwriting/05-risk-engineering.md)
-- [7.2 Claims Process](../volume-07-claims/02-claims-process.md)
+- [7.2 Claims Process](../volume-07-claims/02-notification-investigation.md)

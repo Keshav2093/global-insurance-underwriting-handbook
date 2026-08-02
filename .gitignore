@@ -1,0 +1,17 @@
+# Build output
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# MkDocs / misc
+.cache/

@@ -167,4 +167,4 @@ Service expectations matter: brokers reward fast, clear decisions; slow underwri
 - [4.2 Information Sources](02-information-sources.md)
 - [4.3 Underwriting Principles](03-underwriting-principles.md)
 - [5.1 Pricing Fundamentals](../volume-05-rating-pricing/01-pricing-fundamentals.md)
-- [6.1 Policy Issuance](../volume-06-admin/01-policy-issuance.md)
+- [6.1 Policy Issuance](../volume-06-policy-administration/02-policy-issuance.md)

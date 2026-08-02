@@ -185,4 +185,4 @@ UK private car insurance operates under:
 - [2.3 Homeowners](03-homeowners.md)
 - [4.6 Underwriting by Line](../volume-04-underwriting/06-underwriting-by-line.md)
 - [5.6 Rating by Line](../volume-05-rating-pricing/06-rating-by-line.md)
-- [7.2 Claims Process](../volume-07-claims/02-claims-process.md)
+- [7.2 Claims Process](../volume-07-claims/02-notification-investigation.md)

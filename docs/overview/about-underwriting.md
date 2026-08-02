@@ -66,4 +66,4 @@ Underwriting interacts with other insurer functions:
 - [Volume 4 – Underwriting](../volume-04-underwriting/index.md) covers the underwriting process in detail.
 - [Volume 1 – Fundamentals](../volume-01-fundamentals/index.md) explains the principles insurance is built on.
 - [Volume 5 – Rating & Pricing](../volume-05-rating-pricing/index.md) explains how prices are built.
-- The [underwriting guidelines](../guidelines/index.md) provide practical, line-specific decision frameworks.
+- The [underwriting guidelines](../volume-04-underwriting/09-underwriting-guidelines.md) provide practical, line-specific decision frameworks.

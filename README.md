@@ -1,8 +1,6 @@
 # Global Insurance Underwriting Handbook
 
-A comprehensive, multi-volume professional reference for insurance underwriting — covering fundamentals, personal and commercial lines, rating and pricing, policy administration, claims, and regulation across US and UK markets.
-
-Welcome to the **CoverBridge Knowledge Center** and **Insurance Learning Academy**.
+A comprehensive, multi-volume professional reference for insurance underwriting — covering fundamentals, personal and commercial lines, rating and pricing, policy administration, claims, regulation, technology platforms, reinsurance, specialty lines, fraud, and API/InsurTech integration.
 
 ## What this handbook includes
 
@@ -17,23 +15,41 @@ Welcome to the **CoverBridge Knowledge Center** and **Insurance Learning Academy
 ## Repository Structure
 
 ```
-├── docs/                          # Handbook content (MkDocs source)
-│   ├── index.md                   # Handbook home / table of contents
-│   ├── glossary.md                # Terminology glossary (A–Z)
-│   ├── abbreviations.md           # Common abbreviations & acronyms
-│   ├── volume-01-fundamentals/    # Insurance principles & the industry
-│   ├── volume-02-personal/        # Auto, home, life, health, personal umbrella
-│   ├── volume-03-commercial/      # Property, liability, BOP, marine, cyber…
-│   ├── volume-04-underwriting/    # UW process, risk assessment, file management
-│   ├── volume-05-rating-pricing/  # Manual rating, experience rating, loss ratios
-│   ├── volume-06-admin/           # Policy issuance, endorsements, renewals, TAs
-│   ├── volume-07-claims/          # FNOL, investigation, subrogation, fraud
-│   ├── market-us/                 # US regulatory & state-specific guidance
-│   ├── market-uk/                 # UK (FCA/PRA) regulatory guidance
-│   ├── templates/                 # Proposal forms, checklists, templates
-│   └── guidelines/                # Sample underwriting guidelines by line
-├── mkdocs.yml                     # MkDocs site configuration
-└── LICENSE                        # MIT License
+├── docs/                                # Handbook content (MkDocs source)
+│   ├── index.md                         # Handbook home / table of contents
+│   ├── glossary.md                      # Terminology glossary (A–Z)
+│   ├── abbreviations.md                 # Common abbreviations & acronyms
+│   ├── overview/                        # Scope & about underwriting
+│   ├── volume-01-fundamentals/          # Insurance principles & the industry
+│   ├── volume-02-personal/              # Auto, home, life, health, umbrella
+│   ├── volume-03-commercial/            # Property, liability, BOP, specialty
+│   ├── volume-04-underwriting/          # UW process, risk assessment (COPE)
+│   ├── volume-05-rating-pricing/        # Pricing, classification, analytics
+│   ├── volume-06-policy-administration/ # Issuance, endorsements, renewals
+│   ├── volume-07-claims/                # FNOL, investigation, subrogation
+│   ├── volume-08-us-market/             # US regulatory & market guidance
+│   ├── volume-09-uk-market/             # UK (FCA/PRA) regulatory guidance
+│   ├── volume-10-guidewire/             # Guidewire platform volumes
+│   ├── volume-11-duck-creek/            # Duck Creek platform volumes
+│   ├── volume-12-majesco/               # Majesco platform volumes
+│   ├── volume-13-business-analyst/      # Business Analyst training
+│   ├── volume-14-ai-insurance/          # AI in insurance
+│   ├── volume-15-reinsurance/           # Reinsurance treaties, pricing
+│   ├── volume-16-specialty-insurance/   # Aviation, marine, energy, and more
+│   ├── volume-17-fraud/                 # Fraud detection & investigation
+│   ├── volume-18-api-insurtech/         # APIs & InsurTech integration
+│   ├── underwriting-checklists/         # Submission & LOB checklists
+│   ├── proposal-forms/                  # Proposal & application forms
+│   ├── clause-library/                  # Exclusion, limitation, condition clauses
+│   ├── decision-trees/                  # Referral & risk decision guides
+│   ├── references/                      # Regulators, bodies, vendors
+│   ├── case-studies/                    # Worked scenarios
+│   └── industry-data/                   # Loss ratios, premiums, fraud context
+├── scripts/                             # Content generation utilities
+├── templates/                           # Reusable template markdown
+├── mkdocs.yml                           # MkDocs site configuration
+├── index.html                           # GitHub Pages redirect
+└── LICENSE                              # MIT License
 ```
 
 ## How to Use This Handbook
@@ -50,6 +66,17 @@ Requires Python 3.8+ and pip.
 pip install mkdocs
 mkdocs serve          # local preview at http://127.0.0.1:8000
 mkdocs build          # output to ./site
+```
+
+## Regenerate Generated Content
+
+The generated volumes and knowledge-base sections are produced by scripts in `scripts/`:
+
+```bash
+python scripts/generate_volume16.py        # specialty insurance chapters
+python scripts/generate_volume17.py        # fraud chapters
+python scripts/generate_volume18.py        # API & InsurTech chapters
+python scripts/generate_knowledge_base.py  # references, case studies, industry data
 ```
 
 ## License
