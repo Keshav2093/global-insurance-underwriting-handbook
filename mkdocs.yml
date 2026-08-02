@@ -1,0 +1,149 @@
+site_name: Global Insurance Underwriting Handbook
+site_description: A comprehensive multi-volume reference for insurance underwriting — fundamentals, personal and commercial lines, rating & pricing, policy administration, claims, and US/UK regulation.
+site_author: Global Insurance Underwriting Handbook Contributors
+copyright: © 2026 Global Insurance Underwriting Handbook Contributors — Licensed under MIT
+
+site_url: https://keshav2093.github.io/global-insurance-underwriting-handbook/
+repo_url: https://github.com/Keshav2093/global-insurance-underwriting-handbook
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+
+nav:
+  - Home: index.md
+  - Overview:
+      - Handbook Scope: overview/scope.md
+      - About Underwriting: overview/about-underwriting.md
+  - Glossary:
+      - Glossary of Terms: glossary.md
+      - Abbreviations: abbreviations.md
+  - Volume 1 — Fundamentals:
+      - Volume 1 Home: volume-01-fundamentals/index.md
+      - 1.1 Insurance Basics: volume-01-fundamentals/01-insurance-basics.md
+      - 1.2 Principles of Insurance: volume-01-fundamentals/02-principles.md
+      - 1.3 Insurance as a Business: volume-01-fundamentals/03-insurance-business.md
+      - 1.4 The Insurance Market: volume-01-fundamentals/04-insurance-market.md
+      - 1.5 Legal Environment: volume-01-fundamentals/05-legal-environment.md
+      - 1.6 Insurance Operations: volume-01-fundamentals/06-insurance-operations.md
+  - Volume 2 — Personal:
+      - Volume 2 Home: volume-02-personal/index.md
+      - 2.1 Personal Lines Overview: volume-02-personal/01-personal-lines-overview.md
+      - 2.2 Personal Auto: volume-02-personal/02-personal-auto.md
+      - 2.3 Homeowners: volume-02-personal/03-homeowners.md
+      - 2.4 Dwelling Fire & Other: volume-02-personal/04-dwelling-fire-other.md
+      - 2.5 Personal Umbrella: volume-02-personal/05-personal-umbrella.md
+      - 2.6 Life Insurance: volume-02-personal/06-life-insurance.md
+      - 2.7 Health & Accident: volume-02-personal/07-health-accident.md
+      - 2.8 Personal Package Risk: volume-02-personal/08-personal-package-risk.md
+  - Volume 3 — Commercial:
+      - Volume 3 Home: volume-03-commercial/index.md
+      - 3.1 Commercial Overview: volume-03-commercial/01-commercial-overview.md
+      - 3.2 Commercial Property: volume-03-commercial/02-commercial-property.md
+      - 3.3 Commercial General Liability: volume-03-commercial/03-commercial-general-liability.md
+      - 3.4 Commercial Auto: volume-03-commercial/04-commercial-auto.md
+      - 3.5 Workers Compensation: volume-03-commercial/05-workers-compensation.md
+      - 3.6 Commercial Package & BOP: volume-03-commercial/06-commercial-package-bop.md
+      - 3.7 Businessowners Policy: volume-03-commercial/07-business-owners-policy.md
+      - 3.8 Life, Accident & Health: volume-03-commercial/08-life-accident-health.md
+      - 3.9 Specialty Lines: volume-03-commercial/09-specialty-lines.md
+      - 3.10 Commercial Risk Management: volume-03-commercial/10-commercial-risk-management.md
+  - Volume 4 — Underwriting:
+      - Volume 4 Home: volume-04-underwriting/index.md
+      - 4.1 Underwriting Process: volume-04-underwriting/01-underwriting-process.md
+      - 4.2 Information Sources: volume-04-underwriting/02-information-sources.md
+      - 4.3 Underwriting Principles: volume-04-underwriting/03-underwriting-principles.md
+      - 4.4 Risk Assessment & COPE: volume-04-underwriting/04-risk-assessment-cope.md
+      - 4.5 Risk Engineering: volume-04-underwriting/05-risk-engineering.md
+      - 4.6 Underwriting by Line: volume-04-underwriting/06-underwriting-by-line.md
+      - 4.7 Portfolio Management: volume-04-underwriting/07-portfolio-management.md
+      - 4.8 Underwriting Automation: volume-04-underwriting/08-underwriting-automation.md
+      - 4.9 Underwriting Guidelines: volume-04-underwriting/09-underwriting-guidelines.md
+  - Volume 5 — Rating & Pricing:
+      - Volume 5 Home: volume-05-rating-pricing/index.md
+      - 5.1 Pricing Fundamentals: volume-05-rating-pricing/01-pricing-fundamentals.md
+      - 5.2 Data & Loss Reserving: volume-05-rating-pricing/02-data-loss-reserving.md
+      - 5.3 Classification & Rating: volume-05-rating-pricing/03-classification-rating.md
+      - 5.4 Pricing Techniques: volume-05-rating-pricing/04-pricing-techniques.md
+      - 5.5 Predictive Analytics: volume-05-rating-pricing/05-predictive-analytics.md
+      - 5.6 Rating by Line: volume-05-rating-pricing/06-rating-by-line.md
+      - 5.7 Experience Rating: volume-05-rating-pricing/07-experience-rating.md
+      - 5.8 Reinsurance: volume-05-rating-pricing/08-reinsurance.md
+      - 5.9 Pricing Governance: volume-05-rating-pricing/09-pricing-governance.md
+  - Volume 6 — Policy Administration:
+      - Volume 6 Home: volume-06-policy-administration/index.md
+      - 6.1 Policy Lifecycle: volume-06-policy-administration/01-policy-lifecycle.md
+      - 6.2 Policy Issuance: volume-06-policy-administration/02-policy-issuance.md
+      - 6.3 Endorsements: volume-06-policy-administration/03-endorsements.md
+      - 6.4 Renewals: volume-06-policy-administration/04-renewals.md
+      - 6.5 Cancellations & Non-Renewals: volume-06-policy-administration/05-cancellations-nonrenewals.md
+      - 6.6 Premium Handling & Audits: volume-06-policy-administration/06-premium-handling-audits.md
+      - 6.7 Systems & Data: volume-06-policy-administration/07-systems-data.md
+      - 6.8 Servicing & Compliance: volume-06-policy-administration/08-servicing-compliance.md
+  - Volume 7 — Claims:
+      - Volume 7 Home: volume-07-claims/index.md
+      - 7.1 Claims Overview: volume-07-claims/01-claims-overview.md
+      - 7.2 Notification & Investigation: volume-07-claims/02-notification-investigation.md
+      - 7.3 Coverage Analysis: volume-07-claims/03-coverage-analysis.md
+      - 7.4 Claims Resolution: volume-07-claims/04-claims-resolution.md
+      - 7.5 Reserving & Settlement: volume-07-claims/05-reserving-settlement.md
+      - 7.6 Reinsurance & Subrogation: volume-07-claims/06-reinsurance-subrogation.md
+      - 7.7 Claims Systems & Analytics: volume-07-claims/07-claims-systems-analytics.md
+      - 7.8 Claims Compliance & Best Practice: volume-07-claims/08-claims-compliance-best-practice.md
+  - Volume 8 — US Market:
+      - Volume 8 Home: volume-08-us-market/index.md
+      - 8.1 US Market Structure: volume-08-us-market/01-us-market-structure.md
+      - 8.2 US Regulation: volume-08-us-market/02-us-regulation.md
+      - 8.3 Forms, Rates & Rules: volume-08-us-market/03-forms-rates-rules.md
+      - 8.4 State Licensing: volume-08-us-market/04-state-licensing.md
+      - 8.5 Key Coverages & Forms: volume-08-us-market/05-key-coverages-forms.md
+      - 8.6 Market Participants: volume-08-us-market/06-market-participants.md
+  - Volume 9 — UK Market:
+      - Volume 9 Home: volume-09-uk-market/index.md
+      - 9.1 UK Market Structure: volume-09-uk-market/01-uk-market-structure.md
+      - 9.2 UK Regulation: volume-09-uk-market/02-uk-regulation.md
+      - 9.3 UK Forms & Contracts: volume-09-uk-market/03-uk-forms-and-contracts.md
+      - 9.4 UK Distribution: volume-09-uk-market/04-uk-distribution.md
+      - 9.5 UK Market Practice: volume-09-uk-market/05-uk-market-practice.md
