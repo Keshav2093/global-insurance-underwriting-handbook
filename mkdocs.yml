@@ -147,3 +147,76 @@ nav:
       - 9.3 UK Forms & Contracts: volume-09-uk-market/03-uk-forms-and-contracts.md
       - 9.4 UK Distribution: volume-09-uk-market/04-uk-distribution.md
       - 9.5 UK Market Practice: volume-09-uk-market/05-uk-market-practice.md
+  - Volume 10 — Guidewire:
+      - Volume 10 Home: volume-10-guidewire/index.md
+      - 10.1 Guidewire Overview: volume-10-guidewire/01-guidewire-overview.md
+      - 10.2 PolicyCenter: volume-10-guidewire/02-policycenter.md
+      - 10.3 ClaimCenter: volume-10-guidewire/03-claimcenter.md
+      - 10.4 BillingCenter: volume-10-guidewire/04-billingcenter.md
+      - 10.5 Data Platform: volume-10-guidewire/05-data-platform.md
+      - 10.6 Implementation, Config & Extension: volume-10-guidewire/06-impl-config-extension.md
+      - 10.7 Guidewire Operations: volume-10-guidewire/07-guidewire-operations.md
+  - Volume 11 — Duck Creek:
+      - Volume 11 Home: volume-11-duck-creek/index.md
+      - 11.1 Duck Creek Overview: volume-11-duck-creek/01-duck-creek-overview.md
+      - 11.2 Duck Creek Author: volume-11-duck-creek/02-duck-creek-author.md
+      - 11.3 Duck Creek Billing: volume-11-duck-creek/03-duck-creek-billing.md
+      - 11.4 Duck Creek Claims: volume-11-duck-creek/04-duck-creek-claims.md
+      - 11.5 Duck Creek Insight: volume-11-duck-creek/05-duck-creek-insight.md
+      - 11.6 Duck Creek Implementation: volume-11-duck-creek/06-duck-creek-impl.md
+  - Volume 12 — Majesco:
+      - Volume 12 Home: volume-12-majesco/index.md
+      - 12.1 Majesco Overview: volume-12-majesco/01-majesco-overview.md
+      - 12.2 Majesco Platform: volume-12-majesco/02-majesco-platform.md
+      - 12.3 Majesco Policy: volume-12-majesco/03-majesco-policy.md
+      - 12.4 Billing & Claims: volume-12-majesco/04-majesco-billing-claims.md
+      - 12.5 Majesco Data: volume-12-majesco/05-majesco-data.md
+      - 12.6 Majesco Implementation: volume-12-majesco/06-majesco-impl.md
+  - Volume 13 — Insurance Business Analyst:
+      - Volume 13 Home: volume-13-business-analyst/index.md
+      - 13.1 BA Role: volume-13-business-analyst/01-ba-role.md
+      - 13.2 BA in Underwriting: volume-13-business-analyst/02-ba-underwriting.md
+      - 13.3 BA in Product: volume-13-business-analyst/03-ba-product.md
+      - 13.4 BA in Claims: volume-13-business-analyst/04-ba-claims.md
+      - 13.5 BA in Technology: volume-13-business-analyst/05-ba-technology.md
+      - 13.6 BA Tools: volume-13-business-analyst/06-ba-tools.md
+  - Volume 14 — AI in Insurance:
+      - Volume 14 Home: volume-14-ai-insurance/index.md
+      - 14.1 AI Overview: volume-14-ai-insurance/01-ai-overview.md
+      - 14.2 AI & Data: volume-14-ai-insurance/02-ai-data.md
+      - 14.3 AI Models: volume-14-ai-insurance/03-ai-models.md
+      - 14.4 AI in Underwriting: volume-14-ai-insurance/04-ai-underwriting.md
+      - 14.5 AI in Claims: volume-14-ai-insurance/05-ai-claims.md
+      - 14.6 AI Governance: volume-14-ai-insurance/06-ai-governance.md
+  - Underwriting Checklists:
+      - Checklists Home: underwriting-checklists/index.md
+      - General Submission: underwriting-checklists/01-general-submission.md
+      - Personal Auto: underwriting-checklists/02-personal-auto.md
+      - Homeowners: underwriting-checklists/03-homeowners.md
+      - Commercial Property: underwriting-checklists/04-commercial-property.md
+      - General Liability: underwriting-checklists/05-general-liability.md
+      - Workers Compensation: underwriting-checklists/06-workers-comp.md
+      - Renewal Review: underwriting-checklists/07-renewal-review.md
+      - Endorsement Review: underwriting-checklists/08-endorsement-review.md
+  - Proposal & Application Forms:
+      - Forms Home: proposal-forms/index.md
+      - General Proposal: proposal-forms/01-general-proposal.md
+      - Commercial Property: proposal-forms/02-commercial-property.md
+      - General Liability: proposal-forms/03-general-liability.md
+      - Workers Compensation: proposal-forms/04-workers-comp.md
+      - Fleet / Commercial Auto: proposal-forms/05-commercial-auto.md
+      - Supplemental Questionnaire: proposal-forms/06-supplemental-questionnaire.md
+  - Clause Library:
+      - Clause Library Home: clause-library/index.md
+      - Exclusion Clauses: clause-library/01-exclusions.md
+      - Limitation Clauses: clause-library/02-limitations.md
+      - Condition & Warranty Clauses: clause-library/03-conditions-warranties.md
+      - Coverage Extension Clauses: clause-library/04-coverage-extensions.md
+      - Standard Policy Conditions: clause-library/05-standard-conditions.md
+  - Underwriting Decision Trees:
+      - Decision Trees Home: decision-trees/index.md
+      - General Referral: decision-trees/01-general-referral.md
+      - Property Risk: decision-trees/02-property-risk.md
+      - Liability Risk: decision-trees/03-liability-risk.md
+      - Fraud / Red Flag: decision-trees/04-fraud-red-flags.md
+      - High-Risk & Specialty: decision-trees/05-high-risk-specialty.md
