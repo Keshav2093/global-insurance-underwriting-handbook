@@ -1,0 +1,97 @@
+# 10.4 BillingCenter
+
+## What is BillingCenter?
+
+**BillingCenter** is Guidewire's billing and receivables system. It manages the complete billing lifecycle — invoicing, premium payments, installments, delinquencies, collections, and refunds — with configurable billing plans and automation.
+
+## Core Capabilities
+
+| Capability | Description |
+|---|---|
+| **Invoicing** | Automated invoice generation per billing plan |
+| **Payments** | Multi-channel payments (ACH, card, check) |
+| **Installment plans** | Monthly, quarterly, annual, custom schedules |
+| **Delinquency** | Grace periods, late fees, cancellation triggers |
+| **Collections** | Work queues, payoff calculations, schedules |
+| **Audit/GL** | Accounting integration, premium ledger |
+
+## Billing Lifecycle
+
+```
+Policy Issuance → Invoice → Payment → Delinquency (if unpaid) → Collection → Close
+```
+
+| Stage | Activities |
+|---|---|
+| **Billing Creation** | Billing plan assigned from PolicyCenter |
+| **Invoice** | Auto-generate on schedule |
+| **Payment** | Apply payments, partial payments, reversals |
+| **Delinquency** | Grace period, notices, fees |
+| **Collection** | Work queue, payoff, cancellation if required |
+| **Close** | Final paid status, refunds if endorsed |
+
+## Billing Plans
+
+| Plan | Characteristics |
+|---|---|
+| **Annual** | One invoice per year |
+| **Semi-annual** | Two installments |
+| **Quarterly** | Four installments; usually small fee |
+| **Monthly** | Most common for auto & homeowners |
+| **Pay-as-you-go** | Auditable premium, monthly adjustments |
+| **Custom** | Configurable by product/line/state |
+
+## Payment Processing
+
+| Channel | Description |
+|---|---|
+| **Agent billing** | Agency bill, statement-based |
+| **Direct bill** | Policyholder pays carrier directly |
+| **ACH/EFT** | Automated bank debits |
+| **Credit card** | Online/IVR card payments |
+| **Check** | Lockbox, manual |
+| **IVR** | Automated phone payments |
+
+## Delinquency & Collections
+
+| Feature | Purpose |
+|---|---|
+| **Grace period** | Statutory/contractual days before lapse |
+| **Delinquency triggers** | Missed payment thresholds |
+| **Notices** | Automated cancellation/warning letters |
+| **Collections queues** | Route accounts by severity |
+| **Cancellation** | Non-pay cancellation with reinstatement rules |
+| **Reinstatement** | Fee calculation, effective date logic |
+
+## Key Integrations
+
+| Integration | Purpose |
+|---|---|
+| **PolicyCenter** | Policy changes drive billing adjustments |
+| **ClaimCenter** | Recovery payments, claim expense billing |
+| **Accounting/ERP** | GL postings, premium ledger |
+| **Payment gateways** | Card/ACH processing, reconciliation |
+| **Collections agencies** | Work item handoff |
+
+## BillingCenter Roles
+
+| Role | Responsibilities |
+|---|---|
+| **Billing Analyst** | Account reconciliation, adjustments |
+| **Collections Agent** | Delinquency outreach, payment plans |
+| **CSR** | Payment questions, refunds |
+| **Manager** | Aging reports, KPIs |
+
+## Summary
+
+- BillingCenter manages invoicing, payments, installments, and collections.
+- Billing plans are configurable per product/state.
+- Integration with PolicyCenter and ClaimCenter keeps premiums current.
+- Delinquency and collections workflows automate regulatory compliance.
+
+## Related Chapters
+
+- [10.1 Guidewire Overview](01-guidewire-overview.md)
+- [10.2 PolicyCenter](02-policycenter.md)
+- [10.3 ClaimCenter](03-claimcenter.md)
+- [Volume 6 Policy Administration](../volume-06-policy-administration/index.md)
