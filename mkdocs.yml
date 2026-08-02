@@ -3,7 +3,8 @@ site_description: A comprehensive multi-volume reference for insurance underwrit
 site_author: Global Insurance Underwriting Handbook Contributors
 copyright: © 2026 Global Insurance Underwriting Handbook Contributors — Licensed under MIT
 
-repo_url: https://github.com/example/global-insurance-underwriting-handbook
+site_url: https://keshav2093.github.io/global-insurance-underwriting-handbook/
+repo_url: https://github.com/Keshav2093/global-insurance-underwriting-handbook
 
 theme:
   name: material
